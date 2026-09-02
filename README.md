@@ -27,9 +27,9 @@ A server emulation for Pes 2018 mobile.
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=selimciray&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
+<img src="https://github-readme-stats.vercel.app/api?username=nyandev-55&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selimciray&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyandev-55&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=selimciray&theme=default" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nyandev55&theme=default" alt="GitHub Streak" />
 
