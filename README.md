@@ -1,7 +1,7 @@
-# Hello 👋, I'm Yavuz Selim Çıray
+# Hello 👋, I'm nyandev
 ### Software Developer
 
-I am 15 years old and I wanted to share software projects here.
+I wanted to share software projects here.
 
 ## Skills
 
